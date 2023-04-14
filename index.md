@@ -14,7 +14,7 @@ In addition to his software development work, Wetzlmayr has a passion for photog
   {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
