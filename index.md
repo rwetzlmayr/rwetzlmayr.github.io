@@ -20,7 +20,7 @@ In addition to his software development work, Wetzlmayr has a passion for photog
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read on&hellip;</a>
     </article>
 {% endfor %}
 </div>
