@@ -3,6 +3,8 @@ layout: post
 title: Textpattern, a Slim Content Management System (CMS) Between TYPO3 and WordPress
 ---
 
+[Textpattern](https://textpattern.com/) is a versatile and user-friendly content management system (CMS) that strikes a balance between the complexity of TYPO3 and the simplicity of WordPress. It is a free and open-source software that  is well-suited for small to medium-sized websites or blogs, making it an ideal choice for freelancers or businesses. It provides a range of features and customization options while maintaining an intuitive interface, making it easy to use and manage content. With its flexibility and accessibility, Textpattern offers a middle ground solution for those seeking a CMS that is not too overwhelming but still powerful enough for their needs.
+
 ## The Middle Ground Between TYPO3 and WordPress
 
 How to choose from the unmanageable abundance of content management systems the one that fits the task, can be mastered with a manageable learning effort and will not become too narrow, too small or too sluggish in the future? No easy task. Often one orients oneself to well-known names or to the frequency of specialist book publications on a CMS. From the open source camp, one therefore chooses either [Joomla!](https://www.joomla.org/) or [Typo3](https://typo3.org/) for the corporate site of MultiMega AG, or [WordPress](https://wordpress.org/) for the small personal blog.
