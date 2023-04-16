@@ -1,5 +1,7 @@
 ---
 published: true
+title: Frameworks for use with PHP
+layout: post
 ---
 Following the success of [Ruby on Rails](https://rubyonrails.org/), libraries have emerged for PHP programmers that simplify and generalise the recurring tasks of [web application development](https://wetzlmayr.at/programmierer/): PHP frameworks.
 
