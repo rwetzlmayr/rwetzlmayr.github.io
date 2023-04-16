@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 [Robert Wetzlmayr](https://wetzlmayr.at/) is a software developer and contributor to the open-source community.
@@ -11,7 +12,7 @@ In addition to his software development work, Wetzlmayr has a passion for photog
 ## Most recent posts
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <article class="post">
 
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -24,6 +25,3 @@ In addition to his software development work, Wetzlmayr has a passion for photog
     </article>
 {% endfor %}
 </div>
-
-
-
