@@ -1,10 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Frameworks for use with PHP
----
 Following the success of [Ruby on Rails](https://rubyonrails.org/), libraries have emerged for PHP programmers that simplify and generalise the recurring tasks of [web application development](https://wetzlmayr.at/programmierer/): PHP frameworks.
 
 A framework is - generally speaking - a coordinated collection of subroutines and functions that form an abstraction layer between the (web) application covering a requirement and the technology working underneath. This technical foundation might include 
