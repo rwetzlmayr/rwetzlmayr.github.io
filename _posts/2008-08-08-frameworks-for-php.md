@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -53,4 +53,3 @@ The [Symfony](https://symfony.com/) framework has an application horizon compara
 [Slim](https://www.slimframework.com/) is a lightweight and flexible PHP framework that is designed for building small to medium-sized web applications and APIs. It follows the micro-framework architectural pattern and provides a minimalistic and intuitive approach to web development. Slim is known for its simplicity and ease of use, making it a popular choice for developers who prefer a minimalist approach to building web applications.
 
 These are just a few of the many PHP frameworks available for web application development. The choice of framework depends on various factors, such as the specific requirements of the project, the experience and preferences of the development team, and the performance and scalability needs of the application. It's important to thoroughly evaluate and choose the right framework that best fits the needs of the project to ensure efficient and effective development.
-
