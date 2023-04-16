@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: WordPress shortcodes from the plugin programmer's point of view
 layout: post
 ---
