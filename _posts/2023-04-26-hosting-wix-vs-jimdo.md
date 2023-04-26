@@ -1,6 +1,6 @@
 ---
 published: true
-title: Choosing the Right Website Builder: Comparing Wix.com, Jimdo, and Other Top Platforms
+title: "Choosing the Right Website Builder: Comparing Wix.com, Jimdo, and Other Top Platforms"
 layout: post
 ---
 
