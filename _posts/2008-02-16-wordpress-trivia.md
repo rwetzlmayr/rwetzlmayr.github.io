@@ -19,4 +19,4 @@ WordPress is likely the most widely used software for weblogs on this planet. It
 *   Al Gore runs his blog on WordPress (and was promptly hacked).
 *   WordPress 2.4 will never be released.
 
-[Source](https://wetzlmayr.at/texte/wordpress-trivia "WordPress Trivia")
+[Source](https://wetzlmayr.at/awasteofwords/wordpress-trivia "WordPress Trivia")
