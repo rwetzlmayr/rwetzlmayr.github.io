@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >
-Start-up help for websites: The good ranking
+title: "Start-up help for websites: The good ranking"
 ---
 So far, everything has gone so well: 
 
