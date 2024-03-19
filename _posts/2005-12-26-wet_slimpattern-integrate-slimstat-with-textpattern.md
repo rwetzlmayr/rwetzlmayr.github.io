@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wet_slimpattern: Integrating SlimStat into Textpattern
+title: "wet_slimpattern: Integrating SlimStat into Textpattern"
 ---
 
 **wet_slimpattern** is a plugin which integrates [Textpattern](https://textpatttern.com "The small content management system that can handle big ideas") with **SlimStat**, an open source web statistics package developed by Stephen Wettone.
