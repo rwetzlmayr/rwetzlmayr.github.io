@@ -33,7 +33,7 @@ This plugin is released under the [Gnu General Public Licence](https://www.gnu.o
 
 ### Download
 
-Get it here: [Code Is Pottery | Robert Wetzlmayr](https://wetzlmayr.at/awasteofwords/?c=code-is-pottery).
+Get it here: [Code Is Pottery − Robert Wetzlmayr](https://wetzlmayr.at/awasteofwords/?c=code-is-pottery).
 
 ### Resources and Relateds
 
