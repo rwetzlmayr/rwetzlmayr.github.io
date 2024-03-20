@@ -25,3 +25,5 @@ In addition to his software development work, Wetzlmayr has a passion for photog
     </article>
 {% endfor %}
 </div>
+
+<a href="/blog">Go to the full archive&hellip;</a>
