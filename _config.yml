@@ -86,7 +86,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-# Article list
-paginate: 7
-paginate_path: "/page:num/"
