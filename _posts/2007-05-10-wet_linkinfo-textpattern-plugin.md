@@ -31,7 +31,7 @@ title: "wet_linkinfo: Textpattern plugin to extract a managed link's properties"
 |-----------|-------------|---------|
 | **type** | Either "date", "category", "url", "linkname", "linksort", or "description". | `"url"` |
 | **escape** | Replace special characters with their HTML entities. | Empty. |
-| **form** | A form's name which will be parsed to produce the tag's output. The form can contain any text, HTML elements, or Textpattern tags, and will produce reasonable results when one of these tags is encountered: <ul><li>[txp:link](https://docs.textpattern.com/tags/link)</li><li>[txp:link_category](https://docs.textpattern.com/tags/link_category)</li><li>[txp:link_date](https://docs.textpattern.com/tags/link_date)</li><li>[txp:linkdesctitle](https://docs.textpattern.com/tags/linkdesctitle)</li><li>[txp:link_name](https://docs.textpattern.com/tags/link_name)</li><li>[txp:link_url](https://docs.textpattern.com/tags/link_url)</li><li>[txp:link_description](https://docs.textpattern.com/tags/link_description)</li></ul> | Empty. |
+| **form** | A form's name which will be parsed to produce the tag's output. The form can contain any text, HTML elements, or Textpattern tags, and will produce reasonable results when one of these tags is encountered: [txp:link](https://docs.textpattern.com/tags/link), [txp:link_category](https://docs.textpattern.com/tags/link_category), [txp:link_date](https://docs.textpattern.com/tags/link_date), [txp:linkdesctitle](https://docs.textpattern.com/tags/linkdesctitle), [txp:link_name](https://docs.textpattern.com/tags/link_name), [txp:link_url](https://docs.textpattern.com/tags/link_url), [txp:link_description](https://docs.textpattern.com/tags/link_description) | Empty. |
 
 ### Sample use
 
