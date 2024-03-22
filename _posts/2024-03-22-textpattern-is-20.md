@@ -15,6 +15,8 @@ The basis of this website was a CMS called Textpattern. [Macromedia Dreamweaver]
 
 Another blogging tool called [WordPress](https://developer.wordpress.org/reference/functions/capital_p_dangit/ "capital_P_dangit") was then in competition with Textpattern, and based on the [frequency and popularity of the two search terms displayed by Google Trends](https://trends.google.at/trends/explore?date=2004-01-02%202005-01-02&q=textpattern,wordpress&hl=de-AT), I decided that Textpattern would probably be the more popular system and my commitment in that direction made sense. In early April 2006, the two products were even merged.
 
+![Dean Allen and Matt Mullenweg](https://live.staticflickr.com/41/104050690_ce98a95092_b.jpg)
+
 Between you and me: I should not be asked about the potential of software products. Matt is estimated to be worth around $400 million today, and [Dean](https://textpattern.com/weblog/memories-of-dean-allen) was a winemaker in southern France AFAIK.
 
 And so it begins...
