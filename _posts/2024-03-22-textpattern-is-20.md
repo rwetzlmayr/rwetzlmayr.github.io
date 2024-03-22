@@ -13,7 +13,7 @@ This resurrected browser was initially called Phoenix – why only? I used Phoen
 
 The basis of this website was a CMS called Textpattern. [Macromedia Dreamweaver](https://de.wikipedia.org/wiki/Adobe_Dreamweaver) (not yet Adobe Dreamweaver!) was my tool of choice at the time for building websites – HTML and CSS were new, unknown knowledge zones, and the Textpattern tags seemed logical, fitting and beautiful to me in this new knowledge zone.
 
-Another blogging tool called [WordPress](https://developer.wordpress.org/reference/functions/capital_p_dangit/ "capital_P_dangit") was then in competition with Textpattern, and based on the [frequency and popularity of the two search terms displayed by Google Trends](https://trends.google.at/trends/explore?date=2004-01-02%202005-01-02&q=textpattern,wordpress&hl=de-AT), I decided that Textpattern would probably be the more popular system and my commitment in that direction made sense. In early April 2006, the two products were even merged.
+Another blogging tool called [WordPress](https://developer.wordpress.org/reference/functions/capital_p_dangit/ "capital_P_dangit") was then in competition with Textpattern, and based on the [frequency and popularity of the two search terms displayed by Google Trends](https://trends.google.at/trends/explore?date=2004-01-02%202005-01-02&q=textpattern,wordpress&hl=de-AT), I decided that Textpattern would probably be the more popular system and my commitment in that direction made sense. In early April 2006, the two products were [even merged](https://wordpress.org/news/2006/04/wordpattern/).
 
 ![Dean Allen and Matt Mullenweg](https://live.staticflickr.com/41/104050690_ce98a95092_b.jpg)
 
@@ -30,4 +30,4 @@ Through the gateway drug Textpattern, my life literally transformed:
 * I can now also type around a bit in the Apache configuration without the result becoming pretty disastrous.
 * Since then, as a sole proprietor, I have built about an umpteen websites with Textpattern as the CMS and never regretted my choice.
 
-"Textpattern is now twenty](https://textpattern.com/weblog/textpattern-turns-twenty "Textpattern turns twenty"). Woot!
+[Textpattern is now twenty](https://textpattern.com/weblog/textpattern-turns-twenty "Textpattern turns twenty"). Woot!
