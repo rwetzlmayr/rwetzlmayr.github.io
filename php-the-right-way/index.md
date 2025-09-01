@@ -8,7 +8,7 @@ published: true
 
 Liebe Besucherinnen und Besucher,
 
-falls Sie auf der Suche nach der deutschen Übersetzung der Website  *[PHP: The Right Way](https://phptherightway.com/ "PHP: The Right Way. Reference for PHP best practices")* hier gelandet sind: Diese Website ist [hierhin](https://skipper-henrik.github.io/php-the-right-way/ "PHP - aber richtig. Referenz für PHP best Practices") übersiedelt.
+falls Sie auf der Suche nach der deutschen Übersetzung der Website  *PHP: The Right Way* hier gelandet sind: Diese Website ist [hierhin](https://skipper-henrik.github.io/php-the-right-way/) übersiedelt.
 
 Die Welt der Softwareentwicklung, insbesondere im Bereich PHP und Webentwicklung, ist ständig in Bewegung. Neue Tools und Frameworks werden entwickelt, während andere in den Hintergrund treten. 
 
